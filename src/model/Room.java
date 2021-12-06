@@ -76,7 +76,7 @@ public class Room {
 
     /**
      * get nit
-     * @return h
+     * @return 
      */
     public String getNit() {
         return nit;
